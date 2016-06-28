@@ -94,7 +94,7 @@ extract_it()
         *.tar) comp= ;;
         *) echo "unknown compressed module $mod_name" ; exit 1 ;;
         esac
-        if ! tar x${comp}f ../downloads/$mod_file > /dev/null
+        if ! tar x${comp}of ../downloads/$mod_file > /dev/null
         then
             echo "error extracting module $mod_name"
             exit 1
