@@ -20,7 +20,7 @@ xproto-7.0.20.tar.bz2                           :  xproto-7.0.20                
 xcb-proto-1.6.tar.bz2                           :  xcb-proto-1.6                            :
 libxcb-1.7.tar.bz2                              :  libxcb-1.7                               :
 xtrans-1.2.6.tar.bz2                            :  xtrans-1.2.6                             :
-libX11-1.4.0.tar.bz2                            :  libX11-1.4.0                             :
+libX11-1.4.3.tar.bz2                            :  libX11-1.4.3                             :
 libXext-1.2.0.tar.bz2                           :  libXext-1.2.0                            :
 libICE-1.0.7.tar.bz2                            :  libICE-1.0.7                             :
 libSM-1.2.0.tar.bz2                             :  libSM-1.2.0                              :
@@ -63,7 +63,7 @@ xorg-server-1.9.3.tar.bz2                       :  xorg-server-1.9.3            
 applewmproto-1.4.1.tar.bz2                      :  applewmproto-1.4.1                       :
 bdftopcf-1.0.3.tar.bz2                          :  bdftopcf-1.0.3                           :
 intltool-0.41.1.tar.gz                          :  intltool-0.41.1                          :
-xkeyboard-config-2.0.tar.bz2                    :  xkeyboard-config-2.0                     :
+xkeyboard-config-2.11.tar.bz2                    :  xkeyboard-config-2.11                     :
 font-adobe-75dpi-1.0.3.tar.bz2                  :  font-adobe-75dpi-1.0.3                   : --with-fontrootdir=$PREFIX_DIR/share/fonts/X11
 font-adobe-100dpi-1.0.3.tar.bz2                 :  font-adobe-100dpi-1.0.3                  : --with-fontrootdir=$PREFIX_DIR/share/fonts/X11
 font-adobe-utopia-75dpi-1.0.4.tar.bz2           :  font-adobe-utopia-75dpi-1.0.4            : --with-fontrootdir=$PREFIX_DIR/share/fonts/X11
